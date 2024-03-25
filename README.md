@@ -2,12 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&size=40&pause=1000&color=F79446&random=false&width=435&height=70&lines=%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC+%EC%9E%98%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
 
 # 📆 Record
-|name|period|role|
-|---|---|---|
-|박스오피스|2023.08-2023.10|ios|
-|프로젝트 매니저|2023.07-2023.08|ios|
-|다이어리|2023.06-2023.07|ios|
-|planty|2024.02-now|api|
+|name|period|role|link|
+|---|---|---|---|
+|박스오피스|2023.08-2023.10|ios|https://github.com/YaRkyungmin/ios-box-office|
+|프로젝트 매니저|2023.07-2023.08|ios|https://github.com/YaRkyungmin/ios-project-manager|
+|다이어리|2023.06-2023.07|ios|https://github.com/YaRkyungmin/ios-diary|
 
 # 💪Skills
 
